@@ -1,0 +1,80 @@
+# Laravel Framework
+/.phpunit.cache
+/.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+
+# Dependencies
+/node_modules
+/vendor
+
+# Environment Files
+.env
+.env.backup
+.env.production
+.env.local
+.env.*.local
+
+# Build Files
+/public/build
+/public/hot
+/public/storage
+
+# Storage
+/storage/*.key
+/storage/app/public/*
+!/storage/app/public/.gitkeep
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# IDE Files
+/.fleet
+/.idea
+/.vscode
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+/coverage
+.phpunit.cache
+
+# Temporary Files
+*.tmp
+*.temp
+*.cache
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+
+# Compiled Assets
+/public/css
+/public/js
+/public/mix-manifest.json
+
+# Uploaded Files (keep structure)
+/storage/app/public/negara/*
+!/storage/app/public/negara/.gitkeep
+/storage/app/public/klub/*
+!/storage/app/public/klub/.gitkeep
