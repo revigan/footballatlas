@@ -216,9 +216,9 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Jika Anda mengalami masalah atau memiliki pertanyaan:
 
--   📧 Email: [your-email@example.com]
--   💬 WhatsApp: [6281215413573]
--   🐛 Issues: [GitHub Issues](https://github.com/yourusername/footballatlas/issues)
+-   📧 Email: [farikhinmopqr@gmail.com]
+-   💬 WhatsApp: [082323899212]
+-   🐛 Issues: [GitHub Issues](https://github.com/revigan/footballatlas/issues)
 
 ## 🚨 Security Issues
 
